@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Greetings from Italy
+
+🔭 I’m currently working on Microsoft Hybrid Solutions (Windows10/11, Microsoft365, Azure, Intune)
+🌱 I’m currently learning Powershell and Azure CLI. I would learn ARM Json and Bicep
+🤔 I’m looking for help with Powershell automation scripts and MS Graph integration
+⚡ Fun fact: I'm a real Back To The Future fan 😁
+
+Reach me on [Twitter](https://twitter.com/francescofacco)
+Link to [my website](https://francescofacco.cloud)
+
 <!--
 **francescofacco/francescofacco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
