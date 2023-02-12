@@ -2,10 +2,10 @@
 
 Greetings from Italy
 
-🔭 I’m currently working on Microsoft Hybrid Solutions (Windows10/11, Microsoft365, Azure, Intune)
-🌱 I’m currently learning Powershell and Azure CLI. I would learn ARM Json and Bicep
+🔭 I work with Microsoft Hybrid Solutions (Windows10/11, Microsoft365, Azure, Intune)
+🌱 I’m learning Powershell and Azure CLI. I would learn ARM, Json and KQL
 🤔 I’m looking for help with Powershell automation scripts and MS Graph integration
-⚡ Fun fact: I'm a real Back To The Future fan 😁
+⚡ Fun fact: I'm a Back To The Future fan 😁
 
 Reach me on [Twitter](https://twitter.com/francescofacco)
 Link to [my website](https://francescofacco.cloud)
